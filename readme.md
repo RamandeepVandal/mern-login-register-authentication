@@ -1,4 +1,4 @@
-### Full-Stack Login/Register Authentication Project
+# Full-Stack Login/Register Authentication Project
 This is a full-stack project that allows users to register, login, and authenticate their access to a protected route using JSON Web Tokens (JWT). The project is built using React for the front-end, Node.js and Express for the back-end, and MongoDB as the database. Bootstrap is used for the UI components.
 
 ## Getting Started
