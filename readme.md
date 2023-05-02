@@ -6,11 +6,11 @@ To get started, clone this repository to your local machine. You will need to ha
 
 1. Open two terminals. 
 
-2. Navigate to the server directory and run npm install to install the dependencies for the server.
+2. Navigate to the server directory and run **npm install** to install the dependencies for the server.
 
-3. Navigate to the client directory and run npm install to install the dependencies for the client.
+3. Navigate to the client directory and run **npm install** to install the dependencies for the client.
 
-4. Then run *npm start* in the server directory to start the server and run *npm run dev* in the client directory to start the app.
+4. Then run **npm start** in the server directory to start the server and run **npm run dev** in the client directory to start the app.
 
 ## Usage
 Once the project is running, you will be taken to the login page. If you don't have an account yet, click the "Register" link to create an account.
