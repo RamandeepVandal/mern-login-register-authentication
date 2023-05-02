@@ -23,7 +23,11 @@ If you try to access the protected route without logging in, you will be redirec
 This project was built using the following technologies:
 
 React: for the front-end UI
+
 Node.js and Express: for the back-end server
+
 MongoDB: for the database
+
 JSON Web Tokens (JWT): for authentication
+
 Bootstrap: for the UI components
